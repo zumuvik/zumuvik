@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="860" viewBox="0 0 1000 860" role="img" aria-labelledby="title desc">
+  <title id="title">Featured projects and toolchain</title>
+  <desc id="desc">One UI inspired dark dashboard with rounded focus blocks</desc>
+  <rect width="1000" height="860" fill="#000000"/>
+  <text x="40" y="82" font-family="Roboto, Arial, sans-serif" font-size="58" font-weight="400" letter-spacing="-1.5" fill="#fafafa">Projects</text>
+  <text x="958" y="72" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">Selected work</text>
+
+  <rect x="24" y="118" width="466" height="238" rx="32" fill="#1c1c1e"/>
+  <rect x="52" y="146" width="82" height="34" rx="17" fill="#102a46"/>
+  <text x="93" y="169" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#65a9ff">Rust</text>
+  <circle cx="430" cy="170" r="32" fill="#0381fe"/>
+  <text x="430" y="181" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="30" fill="#ffffff">L</text>
+  <text x="52" y="229" font-family="Roboto, Arial, sans-serif" font-size="35" font-weight="500" fill="#fafafa">Lavis</text>
+  <text x="52" y="266" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">Telegram userbot and module runtime</text>
+  <text x="52" y="294" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">built on MTProto with grammers.</text>
+  <text x="52" y="329" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#3e91ff">Open repository  →</text>
+
+  <rect x="510" y="118" width="466" height="238" rx="32" fill="#1c1c1e"/>
+  <rect x="538" y="146" width="96" height="34" rx="17" fill="#143526"/>
+  <text x="586" y="169" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#62d892">Security</text>
+  <circle cx="916" cy="170" r="32" fill="#36b86b"/>
+  <text x="916" y="181" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="30" fill="#ffffff">P</text>
+  <text x="538" y="229" font-family="Roboto, Arial, sans-serif" font-size="35" font-weight="500" fill="#fafafa">Phonect</text>
+  <text x="538" y="266" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">Biometric Linux session unlocking</text>
+  <text x="538" y="294" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">from Android, entirely over the LAN.</text>
+  <text x="538" y="329" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#3e91ff">Open repository  →</text>
+
+  <rect x="24" y="376" width="466" height="238" rx="32" fill="#1c1c1e"/>
+  <rect x="52" y="404" width="82" height="34" rx="17" fill="#2b2343"/>
+  <text x="93" y="427" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#b49aff">Nix</text>
+  <circle cx="430" cy="428" r="32" fill="#7b61c9"/>
+  <text x="430" y="439" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="29" fill="#ffffff">N</text>
+  <text x="52" y="487" font-family="Roboto, Arial, sans-serif" font-size="35" font-weight="500" fill="#fafafa">NixOS config</text>
+  <text x="52" y="524" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">Multi-host NixOS and Home Manager</text>
+  <text x="52" y="552" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">setup with Hyprland, CI and Cachix.</text>
+  <text x="52" y="587" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#3e91ff">Open repository  →</text>
+
+  <rect x="510" y="376" width="466" height="238" rx="32" fill="#1c1c1e"/>
+  <rect x="538" y="404" width="102" height="34" rx="17" fill="#452813"/>
+  <text x="589" y="427" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="14" font-weight="500" fill="#ffad69">Systems</text>
+  <circle cx="916" cy="428" r="32" fill="#ff8b2c"/>
+  <text x="916" y="439" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="29" fill="#ffffff">⌘</text>
+  <text x="538" y="487" font-family="Roboto, Arial, sans-serif" font-size="35" font-weight="500" fill="#fafafa">Current focus</text>
+  <text x="538" y="524" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">Declarative infrastructure, secure</text>
+  <text x="538" y="552" font-family="Roboto, Arial, sans-serif" font-size="17" fill="#a1a1aa">integrations and developer tooling.</text>
+  <text x="538" y="587" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#3e91ff">See all repositories  →</text>
+
+  <text x="40" y="686" font-family="Roboto, Arial, sans-serif" font-size="38" font-weight="400" fill="#fafafa">Toolchain</text>
+  <rect x="24" y="718" width="952" height="118" rx="32" fill="#1c1c1e"/>
+  <rect x="52" y="752" width="108" height="50" rx="25" fill="#0381fe"/><text x="106" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#ffffff">NixOS</text>
+  <rect x="172" y="752" width="94" height="50" rx="25" fill="#303034"/><text x="219" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">Rust</text>
+  <rect x="278" y="752" width="112" height="50" rx="25" fill="#303034"/><text x="334" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">Python</text>
+  <rect x="402" y="752" width="104" height="50" rx="25" fill="#303034"/><text x="454" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">Linux</text>
+  <rect x="518" y="752" width="122" height="50" rx="25" fill="#303034"/><text x="579" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">Android</text>
+  <rect x="652" y="752" width="116" height="50" rx="25" fill="#303034"/><text x="710" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">systemd</text>
+  <rect x="780" y="752" width="164" height="50" rx="25" fill="#303034"/><text x="862" y="784" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="16" font-weight="500" fill="#fafafa">GitHub Actions</text>
+</svg>
