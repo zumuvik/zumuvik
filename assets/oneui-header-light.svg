@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">zumuvik profile header</title>
+  <desc id="desc">One UI inspired light profile header</desc>
+  <rect width="1000" height="360" fill="#f3f3f7"/>
+  <circle cx="884" cy="78" r="74" fill="#dcebff"/>
+  <circle cx="920" cy="118" r="38" fill="#0381fe"/>
+  <text x="920" y="132" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="42" font-weight="500" fill="#ffffff">z</text>
+  <text x="58" y="116" font-family="Roboto, Arial, sans-serif" font-size="68" font-weight="400" letter-spacing="-2" fill="#111114">zumuvik</text>
+  <text x="61" y="158" font-family="Roboto, Arial, sans-serif" font-size="21" fill="#6e6e73">NixOS · Rust · Linux systems</text>
+  <rect x="24" y="222" width="952" height="114" rx="34" fill="#ffffff"/>
+  <rect x="52" y="252" width="112" height="50" rx="25" fill="#0381fe"/>
+  <text x="108" y="284" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="500" fill="#ffffff">NixOS</text>
+  <rect x="176" y="252" width="96" height="50" rx="25" fill="#ececf1"/>
+  <text x="224" y="284" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="500" fill="#1c1c1e">Rust</text>
+  <rect x="284" y="252" width="104" height="50" rx="25" fill="#ececf1"/>
+  <text x="336" y="284" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="500" fill="#1c1c1e">Linux</text>
+  <rect x="400" y="252" width="132" height="50" rx="25" fill="#ececf1"/>
+  <text x="466" y="284" text-anchor="middle" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="500" fill="#1c1c1e">Networks</text>
+  <text x="944" y="268" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="500" fill="#1c1c1e">Senior software engineer</text>
+  <text x="944" y="296" text-anchor="end" font-family="Roboto, Arial, sans-serif" font-size="16" fill="#77777d">Network administrator</text>
+</svg>
