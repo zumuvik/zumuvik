@@ -11,9 +11,9 @@ I build reproducible systems and Linux-native tools with a focus on declarative 
 [**Lavis**](https://github.com/zumuvik/lavis)　·　[**Phonect**](https://github.com/zumuvik/phonect)　·　[**NixOS config**](https://github.com/zumuvik/nixos_v2)　·　[**All repositories**](https://github.com/zumuvik?tab=repositories)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/oneui-dashboard-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/oneui-dashboard-light.svg" />
-  <img width="100%" src="./assets/oneui-dashboard-light.svg" alt="Featured projects and toolchain" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/oneui-dashboard-dark-v2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/oneui-dashboard-light-v2.svg" />
+  <img width="100%" src="./assets/oneui-dashboard-light-v2.svg" alt="Featured projects and toolchain" />
 </picture>
 
 <sub>Reproducibility over snowflake systems. Clear interfaces over hidden magic.</sub>
